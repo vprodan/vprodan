@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vprodan
+- 👀 I’m interested in Game Developing
+- 🌱 I’m currently learning C#/C++
+- 💞️ I’m looking to collaborate on pet game project
+- 📫 How to reach me - vprodan@pm.me
