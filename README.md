@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vprodan;
-- 👀 I’m interested in Game Developing;
+- 👋 Hi, I’m Vadim;
+- 👀 I’m addicted to Developing;
 - 🌱 I’m currently playng with C# / C++ / Assembly (ARM64);
 - 🧑‍💻 Trying to contribute GitHub projects;
-- 📫 How to reach me - vprodan@pm.me;
+- 📫 How to reach me? - vprodan@pm.me;
 - 💻 Currently working on WEB Development; You can check my CV here - https://vprodan.github.io;
