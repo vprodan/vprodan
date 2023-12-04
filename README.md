@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vadim;
-- 👀 I’m addicted to Developing;
+- 👀 I’m addicted to coding;
 - 🌱 I’m currently playng with C# / C++ / Assembly (ARM64);
 - 🧑‍💻 Trying to contribute GitHub projects;
 - 📫 How to reach me? - vprodan@pm.me;
