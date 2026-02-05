@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vadim;
+- 👋 Hi, I’m Vadym;
 - 👀 I am highly enthusiastic about low-level computing technologies;
 - 🧑‍💻 Open Source contributor (zig);
 - 📫 How to reach me? — vprodan@pm.me;
